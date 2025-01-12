@@ -28,6 +28,7 @@ function App() {
           <Portfolio />
           <Contact />
           <Footer />
+          
         </div>
       )}
     </>
